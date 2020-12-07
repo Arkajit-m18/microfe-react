@@ -3,5 +3,4 @@ import ReactDOM from "react-dom";
 
 import App from "./App";
 
-// Trigger build 3
 ReactDOM.render(<App />, document.getElementById("root"));
